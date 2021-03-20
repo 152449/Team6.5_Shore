@@ -76,7 +76,7 @@ font-size: 3vw;
 }
 
 .carousel-inner{
-height: 500px;
+height: auto;
 width: auto;
 margin-right: 0px;
 margin-left: 0px;
