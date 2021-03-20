@@ -2,14 +2,13 @@
 
 * { margin: 0; padding: 0; border: 0; font-size: 100%; }
 
+
 .topbackground {
 
     background-image: url("../image/Sea_background.png");
     text-align: center;
     background-size: cover;
-    
-    
-    }
+ }
 .textoutline {
      color: black;
     -webkit-text-fill-color: white; /* Will override color (regardless of order) */
@@ -38,3 +37,48 @@
         margin-left: auto;
         margin-right: auto
     }
+
+#carouselExampleControls{
+margin-right: 0px;
+margin-left: 0px;
+margin-top: 0px;
+margin-bottom: 0px;	
+}
+
+.overlay {
+    color: #fff;
+    position: absolute;
+    z-index: 40;
+    top: 20vw;
+    right: 0vw;
+}
+	
+.toptext {
+color: white;
+font-size: 6vw;
+font-family: " Helvetica";
+text-align: center;
+font-weight: bold;
+margin-left: 20px;
+margin-right: 20px
+}
+.text-center {
+    text-align: center!important;
+}
+
+.bottomtext{
+color:white;
+text-align: center;
+font-family: helvetica;
+font-weight: bold;	
+font-size: 3vw;
+}
+
+.carousel-inner{
+height: 700px;
+width: auto;
+margin-right: 0px;
+margin-left: 0px;
+margin-top: 0px;
+margin-bottom: 0px;
+}
