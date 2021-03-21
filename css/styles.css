@@ -112,24 +112,16 @@ width: auto;
 margin:0px 0px 0px 0px;
 }
 
-.competiontextbox{
-    background-color: #29869A;
-    margin:0px 0px 0px 0px;
-	padding:0px 0px 0px 0px;
-	text-align: center;	
-	font-family: " Helvetica";
-    column-gap: 0px;
+.featurette-divider {
+  margin: 5rem 0; /* Space out the Bootstrap <hr> more */
 }
 
-.imagebox{
-object-fit: cover;
-margin-right: 0px;
-margin-left: 0px;
-margin-top: 0px;
-margin-bottom: 0px;
-border: 3px #062533;
-column-gap: 0px;
-}
+/* Thin out the marketing headings */
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  /* rtl:remove */
+  letter-spacing: -.05rem;
 
 .contaier-footer{
 height: 120px;
