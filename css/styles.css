@@ -32,6 +32,31 @@
     margin-right: auto; 
   }
 
+.circlecontainer{
+        display: block;
+        margin-left: auto;
+        margin-right: auto
+    }
+
+#carouselExampleControls{
+margin-right: 0px;
+margin-left: 0px;
+margin-top: 0px;
+margin-bottom: 0px;	
+}
+
+body{
+	background-color:#FFFFFF
+}
+
+.my-class {
+    color:white;
+    text-align: center;
+    font-family: helvetica;
+    font-weight: bold;
+	background-color: #446E7D;
+}
+
 .overlay {
     color: #fff;
     position: absolute;
@@ -69,13 +94,8 @@ margin-right: 0px;
 margin-left: 0px;
 margin-top: 0px;
 margin-bottom: 0px;
-}
 
-.circlecontainer{
-        display: block;
-        margin-left: auto;
-        margin-right: auto
-    }
+}
 
 .box1 {
 height: auto;
@@ -104,6 +124,11 @@ font-family: " Helvetica";
 font-weight: bold;
 background-color: #446E7D
 }
+.circlecontainer{
+        display: block;
+        margin-left: auto;
+        margin-right: auto
+    }
 
 .visionmision{
     background-color: #062533;
@@ -154,8 +179,3 @@ height: 120px;
 width: auto;
 background-color: #446E7D
 }
-
-
-
-
-
