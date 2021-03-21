@@ -2,49 +2,6 @@
 
 * { margin: 0; padding: 0; border: 0; font-size: 100%; }
 
-
-.topbackground {
-
-    background-image: url("../image/Sea_background.png");
-    text-align: center;
-    background-size: cover;
- }
-.textoutline {
-     color: black;
-    -webkit-text-fill-color: white; /* Will override color (regardless of order) */
-    -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: black;
-}
-.center {
-
-    display: block;
-    margin-left: auto;
-    margin-right: auto; 
-    color: black;
-    -webkit-text-fill-color: white; /* Will override color (regardless of order) */
-    -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: black;
-}
-
-.gap {
-    column-gap: 20px;
-    margin-left: auto;
-    margin-right: auto; 
-  }
-
-.circlecontainer{
-        display: block;
-        margin-left: auto;
-        margin-right: auto
-    }
-
-#carouselExampleControls{
-margin-right: 0px;
-margin-left: 0px;
-margin-top: 0px;
-margin-bottom: 0px;	
-}
-
 body{
 	background-color:#FFFFFF
 }
@@ -177,5 +134,5 @@ column-gap: 0px;
 .contaier-footer{
 height: 120px;
 width: auto;
-background-color: #446E7D
+background-color: #446E7D;
 }
