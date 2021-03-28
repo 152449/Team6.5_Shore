@@ -11,6 +11,11 @@ max-height: auto;
 max-width: auto;
 }
 
+.no-gutters {
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+}
+
 .textincard{
 font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
 text-align: center;
