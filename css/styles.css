@@ -3,7 +3,8 @@
 * { margin: 0; padding: 0; border: 0; font-size: 100%; }
 
 body{
-	background-color:#FFFFFF
+	background-color:#FFFFFF;
+	color: white;
 }
 
 .navbar-custom{
@@ -43,6 +44,10 @@ color: #3F788C;
 margin-top: 50px;
 margin-bottom: 30px;
 text-align: center;
+}
+
+.color{
+	background-color: whitesmoke;
 }
 
 .container-footer
