@@ -5,7 +5,17 @@
 body{
 	background-color:#FFFFFF;
 	color: white;
-	font-family: 'Noto Sans', sans-serif;
+	font-family: 'Anton', sans-serif;
+}
+
+.smalltext{
+font-family: 'Montserrat', sans-serif;
+color: white;
+}
+
+.smalltext2{
+font-family: 'Montserrat', sans-serif;
+color: #446E7D;
 }
 
 .navbar-custom{
